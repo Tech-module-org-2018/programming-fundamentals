@@ -10,10 +10,16 @@ namespace ex2
     {
         static void Main(string[] args)
         {
+	    //adding width
             double width = double.Parse(Console.ReadLine());
-            double higth = double.Parse(Console.ReadLine());
-            double anwer = width * higth;
 
+	    //adding height
+            double higth = double.Parse(Console.ReadLine());
+
+	    //adding result
+            double anwer = width * higth;
+		
+            //output result
             Console.WriteLine($"{anwer:f2}");
 
 

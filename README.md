@@ -111,65 +111,75 @@ character after the decimal point**.
 
 61.65
 
-Problem 3. Miles to Kilometers
-------------------------------
+### Problem 3.             
+Miles to Kilometers
 
-Write a program, which **converts** **miles** to **kilometers**. **Format** the output to the **2^nd^ decimal place**.
+Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
 
-Note: **1 mile == 1.60934 kilometers**
+nd
+decimal place**.
 
-### Examples
+Note: **1
+mile == 1.60934 kilometers**
 
-|
+#### Examples
 
+ 
 
-**Input**
-
- |
-
-**Output**
-
- |  |
 
 **Input**
 
- |
+ 
 
 **Output**
 
- |  |
+ 
+
+** **
+
+ 
 
 **Input**
 
- |
+ 
 
 **Output**
 
- |
-|
+ 
+
+** **
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
 
 60
 
- |
+ 
 
 96.56
 
- |
+ 
 
 1
 
- |
+ 
 
 1.61
 
- |
+ 
 
 52.1113
 
- |
+ 
 
-83.86
-
+<<<<<<< HEAD
  |
 
 
@@ -304,3 +314,6 @@ Name: Toad
 Health: |.....|
 
 Energy: |..........|
+=======
+83.86
+>>>>>>> 9d7ad247bd72389b3e5646571d54ff91b3e8c963

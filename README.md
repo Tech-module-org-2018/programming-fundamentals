@@ -50,7 +50,7 @@ character after the decimal point**.
 
 61.65
 
-### Problem 1.  
+### Problem 2.  
 Rectangle
 Area
 

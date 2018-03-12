@@ -1,23 +1,24 @@
-﻿using System;
+﻿//CONFIRMED from Ruslan1493
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ex3
+namespace Problem3
 {
-    class Program
+    class Problem3
     {
         static void Main(string[] args)
         {
             // We receive from the console number of miles (parse to double)
             double miles = double.Parse(Console.ReadLine());
             
-            // We calculate miles to kilometers (double)
-            double answer = miles * 1.60934;
+            // We calculate miles to kilometers (double), changed name answer to resultMiles
+            double resultMiles = miles * 1.60934;
             
             // We print answer to the 2nd decimal place.
-            Console.WriteLine($"{answer:f2}"); 
+            Console.WriteLine($"{resultMiles:f2}"); 
         }
     }
 }

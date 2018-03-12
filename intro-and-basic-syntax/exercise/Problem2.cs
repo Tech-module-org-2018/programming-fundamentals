@@ -11,13 +11,13 @@ namespace ex2
         static void Main(string[] args)
         {
 	    //adding width
-            double width = double.Parse(Console.ReadLine());
+            double a = double.Parse(Console.ReadLine());
 
 	    //adding height
-            double higth = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
 
 	    //adding result
-            double anwer = width * higth;
+            double rectangleArea = width * higth;
 		
             //output result
             Console.WriteLine($"{anwer:f2}");

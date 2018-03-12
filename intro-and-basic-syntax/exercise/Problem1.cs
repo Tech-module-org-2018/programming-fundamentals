@@ -11,19 +11,19 @@ namespace ex1
         static void Main(string[] args)
         {
            // We receive first integer from the console
-            int firstNum = int.Parse(Console.ReadLine());
+            int n1 = int.Parse(Console.ReadLine());
          
           // We receive second integer from the console
-            int secondNum = int.Parse(Console.ReadLine());
+            int n2 = int.Parse(Console.ReadLine());
          
           // We receive third integer from the console
-            int thirdNum = int.Parse(Console.ReadLine());
+            int n3 = int.Parse(Console.ReadLine());
          
           // We receive fourth integer from the console
-            int fourthNum = int.Parse(Console.ReadLine());
+            int n4 = int.Parse(Console.ReadLine());
          
           // We print debit card number in 4-digit format
-            Console.WriteLine($"{firstNum:d4} {secondNum:d4} {thirdNum:d4} {fourthNum:d4}");
+            Console.WriteLine($"{n1:d4} {n2:d4} {n3:d4} {n4:d4}");
  
         }
     }

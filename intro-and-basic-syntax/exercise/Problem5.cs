@@ -35,7 +35,6 @@ namespace ex5
             Console.Write(new string('|', characterEnergy));
             Console.Write(new string('.', characterEnergyLeft));
             Console.WriteLine("|");
-
         }
     }
 }

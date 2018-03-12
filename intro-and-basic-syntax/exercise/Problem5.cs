@@ -10,30 +10,30 @@ namespace ex5
     {
         static void Main(string[] args)
         {
-	    //Defining name of the input params
-            string name = Console.ReadLine();
-            int health = int.Parse(Console.ReadLine());
-            int healthMax = int.Parse(Console.ReadLine());
-            int energy = int.Parse(Console.ReadLine());
-            int energyMax = int.Parse(Console.ReadLine());
+            //Defining name of the input params
+            string characterName = Console.ReadLine();
+            int characterHealth = int.Parse(Console.ReadLine());
+            int characterHealthMax = int.Parse(Console.ReadLine());
+            int characterEnergy = int.Parse(Console.ReadLine());
+            int characterEnergyMax = int.Parse(Console.ReadLine());
 
             //Calculating health and energy
-            int healthLeft = healthMax - health;
-            int energyLeft = energyMax - energy;
-            
+            int characterHealthLeft = characterHealthMax - characterHealth;
+            int characterEnergyLeft = characterEnergyMax - characterEnergy;
+
             //Getting the final outputs
-            Console.WriteLine($"Name: {name}");
+            Console.WriteLine($"Name: {characterName}");
 
             Console.Write($"Health: ");
             Console.Write("|");
-            Console.Write(new string('|', health));
-            Console.Write(new string('.', healthLeft));
+            Console.Write(new string('|', characterHealth));
+            Console.Write(new string('.', characterHealthLeft));
             Console.WriteLine("|");
 
             Console.Write($"Energy: ");
             Console.Write("|");
-            Console.Write(new string('|', energy));
-            Console.Write(new string('.', energyLeft));
+            Console.Write(new string('|', characterEnergy));
+            Console.Write(new string('.', characterEnergyLeft));
             Console.WriteLine("|");
 
 

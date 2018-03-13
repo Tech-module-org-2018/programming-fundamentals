@@ -136,88 +136,43 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 **Input** | **Output**
 ----------|-----------
 Mayro <br>5 <br>10 <br>9 <br>10| Name: Mayro <br> Health: '\|\|\|\|\|\|.....\| <br>Energy: \|\|\|\|\|\|\|\|\|\|.\|'
+**Input** | **Output**
+Bauser|Name: Bauser
+|
+10|Health: \|\|\|\|\|\|\|\|\|\|\|\|
+
+|
+10|Energy: \|\|\|\|\|\|\|\|\|\|\|\|
+|
+10|
+|
+10|
 
  
+**Input** | **Output**
 
-Bauser
+Loogi|Name: Loogi
+|
+8|Health: \|\|\|\|\|\|\|\|\|............\|
+|
+20|Energy: \|\|\|............\|
+|
+2|
+|
+14|
 
-10
+**Input**|**Output**
+Toad|Name: Toad
+|
+0|Health: \|.....\|
+|
+5|Energy: \|..........\|
+|
+0|
+|
+10|
 
-10
 
-10
 
-10
 
- 
-
-Name: Bauser
-
-Health: ||||||||||||
-
-Energy: ||||||||||||
-
- 
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Loogi
-
-8
-
-20
-
-2
-
-14
-
- 
-
-Name: Loogi
-
-Health: |||||||||............|
-
-Energy: |||............|
-
- 
-
-Toad
-
-0
-
-5
-
-0
-
-10
-
- 
-
-Name: Toad
-
-Health: |.....|
-
-Energy: |..........|
-=======
-83.86
 

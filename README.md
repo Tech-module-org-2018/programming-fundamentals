@@ -98,8 +98,11 @@ Input | Output
   ----- | ------
 52.1113 | 83.86
 
+### Problem 4.             
+=======
 
 ## Problem 4.             
+>>>>>>> a39a7d7c3a672b2a42e96a50cfcceda4111de675
 Beverage Labels
 
 Write a program, which reads a food product

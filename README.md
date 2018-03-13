@@ -123,65 +123,19 @@ decimal place**.
 Note: **1
 mile == 1.60934 kilometers**
 
-#### Examples
+Examples
+Input | Output 
+----- | ------
+60    | 96.56
 
- 
+Input | Output
+----- | ------
+1     | 1.61
 
+  Input | Output
+  ----- | ------
+52.1113 | 83.86
 
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-<<<<<<< HEAD
- |
 
 ### Problem 4.             
 Beverage Labels

@@ -126,9 +126,17 @@ mile == 1.60934 kilometers**
 #### Examples
 
 
-Input | Output    Input | Output      Input | Output
------ | ------    ----- | ------      ----- | ------
-60    | 96.56     1     | 1.61      52.1113 | 83.86
+Input | Output
+----- | ------
+60    | 96.56
+
+Input | Output 
+----- | ------
+1     | 1.61
+
+  Input | Output
+  ----- | ------
+52.1113 | 83.86
 
 
 ### Problem 4.             

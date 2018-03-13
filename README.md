@@ -72,9 +72,9 @@ on the console, **formatted to the 2nd character after the decimal point**.
 
 **Input** |**Output** |
 |---------|-----------|
-2 <br>7| 14.00|
-7 <br>8| 56.00|
-12.33 <br>5|61.65|
+2 <br>7| 14.00
+7 <br>8| 56.00
+12.33 <br>5|61.65
 
 ### Problem 3. Miles to Kilometers
 

@@ -72,7 +72,7 @@ on the console, **formatted to the 2nd character after the decimal point**.
 
 **Input** |**Output** |
 |---------|-----------|
-2 7| 14.00|
+2 <br>7| 14.00|
 7 8| 56.00|
 12.33 5|61.65|
 

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,17 +10,17 @@ namespace ex2
     {
         static void Main(string[] args)
         {
-	    //adding width
-            double a = double.Parse(Console.ReadLine());
+            //adding width
+            double sideA = double.Parse(Console.ReadLine());
 
-	    //adding height
-            double b = double.Parse(Console.ReadLine());
+            //adding height
+            double sideB = double.Parse(Console.ReadLine());
 
-	    //adding result
-            double rectangleArea = width * higth;
-		
+            //adding result
+            double rectangleArea = sideA * sideB;
+
             //output result
-            Console.WriteLine($"{anwer:f2}");
+            Console.WriteLine($"{rectangleArea:f2}");
 
 
         }

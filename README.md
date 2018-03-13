@@ -140,30 +140,19 @@ Nuka-Cola|220ml Nuka-Cola:
 **Input**|**Output**
 ---------|----------
 Ice Cold Nuka-Cola|250ml Ice Cold Nuka-Cola:
-               250|875kcal, 162.5g sugars
-               350|
-                65|
+250|875kcal, 162.5g sugars
+350|
+65|
 
 
 
 **Input**         |**Output**
 ------------------|----------
 Nuka-Cola Quantum |350ml Nuka-Cola Quantum:
-              350 |2100kcal, 490g sugars
-              600 |
-              140 |
+350 |2100kcal, 490g sugars
+600 |
+140 |
  
-
-
-
- 
-
-
-
- 
-
-
-
 
 ## Problem 5. * Character Stats
 

@@ -112,12 +112,9 @@ character after the decimal point**.
 
 61.65
 
-### Problem 3.             
-Miles to Kilometers
+### Problem 3. ### Miles to Kilometers
 
-Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
-
-nd
+Write a program, which **converts** **miles** to **kilometers**. **Format** the output to the **2nd
 decimal place**.
 
 Note: **1

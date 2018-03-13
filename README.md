@@ -1,8 +1,8 @@
 ﻿# programming-fundamentals
 Programming Fundamentals Repository
 
-## Problem 1.               
-Debit Card Number
+## Problem 1.Debit Card Number               
+
 
 Write a program, which receives **4****integers**
 on the console and **prints them** in **4-digit debit card format**. See the
@@ -69,11 +69,9 @@ Input | Output
   ----- | ------
 52.1113 | 83.86
 
-### Problem 4.             
-=======
 
-## Problem 4.             
-Beverage Labels
+## Problem 4.Beverage Labels             
+
 
 Write a program, which reads a food product
 **name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**

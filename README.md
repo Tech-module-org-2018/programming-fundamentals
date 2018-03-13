@@ -102,7 +102,6 @@ Input | Output
 =======
 
 ## Problem 4.             
->>>>>>> a39a7d7c3a672b2a42e96a50cfcceda4111de675
 Beverage Labels
 
 Write a program, which reads a food product
@@ -137,22 +136,9 @@ Nuka-Cola|220ml Nuka-Cola:
 
 
 
- 
 
-
-
- 
-
-
-
-
-
- 
-
- 
-
-**Input**         |**Output**
----------         |----------
+**Input**|**Output**
+---------|----------
 Ice Cold Nuka-Cola|250ml Ice Cold Nuka-Cola:
                250|875kcal, 162.5g sugars
                350|

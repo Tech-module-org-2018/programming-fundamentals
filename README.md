@@ -30,7 +30,7 @@ on the console, **formatted to the 2nd character after the decimal point**.
 7 <br>8| 56.00
 12.33 <br>5|61.65
 
-### Problem 3. Miles to Kilometers
+## Problem 3. Miles to Kilometers
 
 Write a program, which **converts** **miles** to **kilometers**. **Format** the output to the **2nd
 decimal place**.
@@ -38,7 +38,7 @@ decimal place**.
 Note: **1
 mile == 1.60934 kilometers**
 
-#### Examples
+### Examples
 
 
 Input | Output
@@ -77,25 +77,16 @@ Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”)
 
 ### Examples
 
- 
-
 **Input**|**Output**
 ---------|---------
-Nuka-Cola|220ml Nuka-Cola:
-220|660kcal, 154g sugars
-300|
-70|
+Nuka-Cola <br> 220 <br> 300 <br> 70|220ml Nuka-Cola: <br> 660kcal, 154g sugars
  
-
-
-
-
 **Input**|**Output**
 ---------|----------
 Ice Cold Nuka-Cola <br> 250 <br> 350 <br> 65|250ml Ice Cold Nuka-Cola: <br> 875kcal, 162.5g sugars
 
-**Input**         |**Output**
-------------------|------- ---
+**Input** | **Output**
+----------|------------
 Nuka-Cola Quantum <br> 350 <br> 600 <br> 140|350ml Nuka-Cola Quantum: <br> 2100kcal, 490g sugars
 
 ## Problem 5. * Character Stats

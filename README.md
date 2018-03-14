@@ -119,13 +119,14 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 ----------|-----------
 Mayro <br>5 <br>10 <br>9 <br>10| Name: Mayro <br> Health: '\|\|\|\|\|\|.....\| <br>Energy: \|\|\|\|\|\|\|\|\|\|.\|'
 **Input** | **Output**
+----------|-----------
 Bauser|Name: Bauser
 10 <br> 10 <br> 10 <br> 10|Health: \|\|\|\|\|\|\|\|\|\|\|\| <br> Energy: \|\|\|\|\|\|\|\|\|\|\|\|
-<br>
 **Input** | **Output**
+----------|-----------
 Loogi|Name: Loogi
 8 <br> 20 <br> 2 <br> 14|Health: \|\|\|\|\|\|\|\|\|............\| <br> Energy: \|\|\|............\|
-<br>
 **Input**|**Output**
+----------|-----------
 Toad|Name: Toad
 0 <br> 5 <br> 0 <br> 10|Health: \|.....\| <br> Energy: \|..........\|

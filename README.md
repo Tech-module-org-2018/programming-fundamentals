@@ -14,7 +14,7 @@ examples below for the appropriate formatting.
 
 **Input**|**Output**
 ---------|----------
-12 <br> 433 <br> 1 <br> 5331 | <top>0012 0433 0001 5331 </top>
+12 <br> 433 <br> 1 <br> 5331 | <p>0012 0433 0001 5331 </p>
 **Input**|**Output**
 9182|9182 4221 0012 0003
 4221|
